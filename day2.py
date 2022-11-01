@@ -1,7 +1,6 @@
 #Partie 1
 #On reprend les donnés de l'exercise et on dénifit notre position initial=0,0
 
-
 movements = [str(x) for x in open(r'day2_input.txt').readlines()]
 
 position=0
